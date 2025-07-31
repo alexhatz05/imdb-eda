@@ -62,19 +62,19 @@ Source: Course-provided or IMDb-style data
 - Seaborn
 
 ## 📷 Example visualizations
-![img.png](img.png)
+<img width="989" height="490" alt="Avg Rating per Genre" src="https://github.com/user-attachments/assets/cf112cad-6034-4238-ab2f-942fbb28867e" />
 
-![Correlation of IMDb Score MetaScore with outliers.png](images/Correlation%20of%20IMDb%20Score%20MetaScore%20with%20outliers.png)
+<img width="837" height="550" alt="Correlation of IMDb Score MetaScore with outliers" src="https://github.com/user-attachments/assets/801a04bf-acea-46b0-b37d-8604c91cba81" />
 
-![IMDb MetaScore correlation heatmap.png](images/IMDb%20MetaScore%20correlation%20heatmap.png)
+<img width="520" height="433" alt="IMDb MetaScore correlation heatmap" src="https://github.com/user-attachments/assets/5aab8132-daf7-4b15-93e4-3e6e33f771c0" />
 
-![IMDb MetaScore correlation scatter.png](images/IMDb%20MetaScore%20correlation%20scatter.png)
+<img width="553" height="453" alt="IMDb MetaScore correlation scatter" src="https://github.com/user-attachments/assets/91ea6992-a6e5-48e6-a9a4-8230f5dd8b2f" />
 
-![Rating vs Duration.png](images/Rating%20vs%20Duration.png)
+<img width="558" height="457" alt="Rating vs Duration" src="https://github.com/user-attachments/assets/10b3a3c6-b3e3-453e-976b-30ae6541c1e6" />
 
-![Rating vs Duration box plot.png](images/Rating%20vs%20Duration%20box%20plot.png)
+<img width="558" height="457" alt="Rating vs Duration box plot" src="https://github.com/user-attachments/assets/daa65ea3-c966-4a5c-8113-428463be189c" />
 
-![violin plots.png](images/violin%20plots.png)
+<img width="560" height="432" alt="violin plots" src="https://github.com/user-attachments/assets/df950531-9244-4501-9a54-9e8cee43bf76" />
 
 
 ## 🚀 Getting Started
